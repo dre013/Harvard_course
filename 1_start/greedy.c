@@ -11,7 +11,7 @@ int main(void)
     float z = 0.01;
     do
     {
-        cur = get_float("Enter your value dollars and cents: ");
+        cur = get_float("Enter your value dollars and cents: "); 
     }
     while (cur <= 0);
 
