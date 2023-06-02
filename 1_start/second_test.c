@@ -2,7 +2,7 @@
 #include <cs50.c>
 
 int main(void)
-{
+{ 
     while (true)
     {
         int n = get_int("Enter your number: ");
