@@ -17,5 +17,5 @@ int main(void)
             printf("%c\n", toupper(s[i + 1]));
         }
     }
-}
+} 
 
